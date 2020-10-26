@@ -1,6 +1,6 @@
 # OS Encryption App
 
-This is an app made for CSE2005 to demonstarte the working of encryption algorithm(s) as part of the project component, for Prof. Manikandan K, Fall Semester 2020-21.
+This is an app made for CSE2005 to demonstrate the working of encryption algorithm(s) as part of the project component, for Prof. Manikandan K, Fall Semester 2020-21.
 
 Made by:
 
