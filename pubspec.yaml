@@ -1,5 +1,5 @@
-name: EncrypTON
-description: A new Flutter project.
+name: OS Encryption App
+description: An app that shows the implementation of the enxyption algorithms
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
